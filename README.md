@@ -1,2 +1,2 @@
 # httpunitdemo
-a test for servlet
+a test for servlet with httpunit
